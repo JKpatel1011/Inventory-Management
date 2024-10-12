@@ -9,7 +9,7 @@ To install the Inventory Management App, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FREDVUNI/inventory-management-app.git
+  git remote add origin https://github.com/JKpatel1011/Inventory-Management.git
    ```
 
 2. Navigate to the project directory:

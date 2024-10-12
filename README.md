@@ -61,7 +61,7 @@ The Inventory Management App was built using the following technologies:
 
 Contributions to the Inventory Management App are welcome! To contribute, follow these steps:
 
-1. Fork the repository: [https://github.com/FREDVUNI/inventory-management-app.git](https://github.com/FREDVUNI/inventory-management-app.git).
+1. Fork the repository: git remote add origin https://github.com/JKpatel1011/Inventory-Management.git
 2. Create a new branch for your changes:
 
    ```bash
